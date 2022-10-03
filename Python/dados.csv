@@ -1,0 +1,8 @@
+nome;idade;cpf;nascimento;peso;sexo;estado;registro;cargo;rg;investidor;projeto;renda;NaN
+gean;40;12345678910;1980-10-11;70;f;SC;2021-11-25;empresário;1234567;sim;True;3500;
+pedro;41;12345678911;1980-10-12;71;f;SC;2021-11-26;investidor;1234568;não;True;3501;
+lucas;42;12345678912;1980-10-13;72;f;DF;2021-11-27;cientista de dados;1234569;sim;False;3502;
+maria;43;12345678913;1980-10-14;73;m;SC;2021-11-28;perito oficial;1234570;não;True;3503;
+joao;44;12345678914;1980-10-15;74;f;SC;2022-02-16;empresária;1234571;sim;True;3504;
+carlos;45;12345678915;1980-10-16;75;f;PB;2022-02-16;estudante;1234572;sim;True;3505;
+luciano;46;12345678916;1980-10-17;76;f;SC;2022-02-17;dona de casa;1234573;não;False;3506;
